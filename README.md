@@ -1,1 +1,56 @@
-# release
+
+## 프로그램 리스트
+- 자동 시작 설치 프로그램 (autorun_install.exe, autorun_install_xp.exe)
+- 자동 분석 설치 프로그램 (medical_analyzer_install.exe)
+
+
+## A. 자동 시작 설치 프로그램
+* Windows XP : autorun_install_xp.exe
+* Win7 이상: autorun_install.exe
+
+### A.1. 설치 방법
+```bash
+1. 다운받은 autorun_install.exe (혹은 autorun_install_xp.exe)를 더블클릭한다 
+```
+
+### A.2. 사용 방법
+* 사용자 매뉴얼 참고
+
+## B. 자동 분석 설치 프로그램
+* Win7 이상에서 동작
+
+
+### B.1. 설치 방법
+
+```bash
+1. 아래 2 개의 파일을 다운로드 하세요
+  * tesseract-ocr-setup-3.05.01-20170602.exe
+  * medical_analyzer_install.exe
+
+2. 다운받은 tesseract-ocr-setup-3.05.01-20170602.exe 를 더블클릭해서 설치하기
+   유의사항) 설치 디렉토리 변경하지 말라
+
+3. 다운받은 medical_analyzer_install.exe 를 더블클릭해서 설치하기
+```
+
+### B.2. 설치 후 사용법
+
+#### 시작하기
+```bash
+1. 바탕화면에 생성된 Medical Analyzer Server를 더블클릭하기 
+2. 검은 색 창들이 뜬다. 
+   검은 창들을 최소화해도 된다. 다만, 절대로 종료하면 안 된다. 
+3. 크롬, 엣지, 혹은 익스플로러가 뜨고 고객 정보 페이지가 뜬다
+
+분석 실행, 처방 저장, 고객 정보 등 원하는 기능을 사용하면 된다. 
+```
+
+#### 종료하기
+```bash
+1. 검은 색 창들을 모두 닫는다
+
+   기능이 더 이상 동작하지 않는다.  
+    (크롬, 엣지, 익스플로러 에서 기능을 클릭하면 동작하지 않는다)
+
+2. 자세한 사항은 사용자 매뉴얼 참고
+```
