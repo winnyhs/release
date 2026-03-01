@@ -2,14 +2,14 @@
 # 배포 리스트
 ## [자동 시작 프로그램 설치 안내](https://github.com/winnyhs/release/blob/main/ReadMe%20(Medical%20Autorun).md)
 
-[![Install Guide](https://img.shields.io/badge/User%20Guide-Open-blue?style=for-the-badge)](https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuide%20(Medical%20Autorun).md)
-[![Install Guide](https://img.shields.io/badge/User%20Guide-Open-blue?style=for-the-badge)](https://github.com/winnyhs/release/blob/main/ReadMe/UserGuide%20(Medical%20Autorun).md)
+### 설치 가이드 [![Install Guide](https://img.shields.io/badge/User%20Guide-Open-blue?style=for-the-badge)](https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuide%20(Medical%20Autorun).md)
+### 운영 가이드 [![User Guide](https://img.shields.io/badge/User%20Guide-Open-blue?style=for-the-badge)](https://github.com/winnyhs/release/blob/main/ReadMe/UserGuide%20(Medical%20Autorun).md)
 
 ## [자동 분석 프로그램 설치 안내](https://github.com/winnyhs/release/blob/main/ReadMe%20(Medical%20Analyzer).md)
 
-[![Install Guide](https://img.shields.io/badge/User%20Guide-Open-blue?style=for-the-badge)](https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuid%20(Medical%20Analyzer).md)
+### 설치 가이드 [![Install Guide](https://img.shields.io/badge/User%20Guide-Open-blue?style=for-the-badge)](https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuid%20(Medical%20Analyzer).md)
 
-[![User Guide](https://img.shields.io/badge/User%20Guide-Open-blue?style=for-the-badge)](https://github.com/winnyhs/release/blob/main/ReadMe/UserGuide%20(Medical%20Analyzer).md)
+### 운영 가이드 [![User Guide](https://img.shields.io/badge/User%20Guide-Open-blue?style=for-the-badge)](https://github.com/winnyhs/release/blob/main/ReadMe/UserGuide%20(Medical%20Analyzer).md)
 
 <!--
 *** Download
