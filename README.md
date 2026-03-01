@@ -5,13 +5,12 @@
 
 
 ## A. 자동 시작 설치 프로그램
-* Windows XP : [medical_autorun_install_xp.exe](https://github.com/winnyhs/release/releases/download/autorun_latest/medical_autorun_install_xp_v1.0.0.exe)
-* Win7 이상: [medical_autorun_installer.exe](https://github.com/winnyhs/release/releases/download/autorun_latest/medical_autorun_install_v1.0.0.exe)
+* Windows XP 용 : [medical_autorun_install_xp.exe](https://github.com/winnyhs/release/releases/download/autorun_latest/medical_autorun_install_xp_v1.0.0.exe)
+* Win7, Win10 용: [medical_autorun_installer.exe](https://github.com/winnyhs/release/releases/download/autorun_latest/medical_autorun_install_v1.0.0.exe)
 
 ### A.1. 설치 방법
-```bash
-다운받은 파일을 (medical_autorun_install_*.exe) 더블클릭한다 
-```
+1. 운영체제에 맞는 파일을 다운로드 하세요 (바로 위 링크 클릭)
+2. 다운받은 파일을 (medical_autorun_install_*.exe) 더블클릭한다 
 
 ### A.2. 사용 방법
 * 사용자 매뉴얼 참고
@@ -23,7 +22,6 @@
 
 ### B.1. 설치 방법
 
-```bash
 1. 아래 2 개의 파일을 다운로드 하세요
   * [tesseract-ocr-setup-3.05.01-20170602.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/tesseract-ocr-setup-3.05.01-20170602.exe)
   * [medical_analyzer_install.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/medical_analyzer_install_v1.0.0.exe)
@@ -32,7 +30,6 @@
    유의사항) 설치 디렉토리 변경하지 말라
 
 3. 다운받은 medical_analyzer_install.exe 를 더블클릭해서 설치하기
-```
 
 ### B.2. 설치 후 사용법
 
