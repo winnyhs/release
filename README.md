@@ -4,13 +4,13 @@
 ## 자동 시작 프로그램 설치 안내
 <!-- ## [자동 시작 프로그램 설치 안내](https://github.com/winnyhs/release/blob/main/ReadMe%20(Medical%20Autorun).md) -->
 <p align="left">
-  <a href="https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuid%20(Medical%20Autorun).md"> 
+  <a href="https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuide%20(Medical%20Autorun).md"> 
     설치  가이드 
     <img alt="INSTALL GUIDE : OPEN" src="https://img.shields.io/badge/INSTALL%20GUIDE%20%3A-OPEN-blue?style=flat-square" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuid%20(Medical%20Autorun).md"> 
+  <a href="https://github.com/winnyhs/release/blob/main/ReadMe/UserGuide%20(Medical%20Autorun).md"> 
     사용자 가이드
     <img alt="USER GUIDE : OPEN" src="https://img.shields.io/badge/USER%20GUIDE%20%3A-OPEN-blue?style=flat-square" />
   </a>
@@ -26,13 +26,13 @@
 ## 자동 분석 프로그램 설치 안내
 <!--## [자동 분석 프로그램 설치 안내](https://github.com/winnyhs/release/blob/main/ReadMe%20(Medical%20Analyzer).md) -->
 <p align="left">
-  <a href="https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuid%20(Medical%20Analyzer).md"> 
+  <a href="https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuide%20(Medical%20Analyzer).md"> 
     설치  가이드 
     <img alt="INSTALL GUIDE : OPEN" src="https://img.shields.io/badge/INSTALL%20GUIDE%20%3A-OPEN-blue?style=flat-square" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/winnyhs/release/blob/main/ReadMe/InstallGuid%20(Medical%20Analyzer).md"> 
+  <a href="https://github.com/winnyhs/release/blob/main/ReadMe/UserGuide%20(Medical%20Analyzer).md"> 
     사용자 가이드
     <img alt="USER GUIDE : OPEN" src="https://img.shields.io/badge/USER%20GUIDE%20%3A-OPEN-blue?style=flat-square" />
   </a>
