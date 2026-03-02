@@ -6,8 +6,8 @@
 ## 설치 절차
 
 1. 아래 2 개의 파일을 모두 다운로드 하세요
- * [tesseract-ocr-setup-3.05.01-20170602.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/tesseract-ocr-setup-3.05.01-20170602.exe)
- * [medical_analyzer_install.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/medical_analyzer_install_v1.0.0.exe)
+    * [tesseract-ocr-setup-3.05.01-20170602.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/tesseract-ocr-setup-3.05.01-20170602.exe)
+    * [medical_analyzer_install.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/medical_analyzer_install_v1.0.0.exe)
 
 2. 다운받은 tesseract-ocr-setup-3.05.01-20170602.exe 를 더블클릭해서 설치하세요 
    유의사항) 설치 디렉토리 변경하지 말라
