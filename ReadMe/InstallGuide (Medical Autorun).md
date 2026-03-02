@@ -4,8 +4,8 @@
 
 ## 설치 절차
 1. 아래에서 운영체제에 맞는 파일을 클릭해서 다운로드 하세요
- * Windows XP 용 : [medical_autorun_install_xp.exe](https://github.com/winnyhs/release/releases/download/autorun_latest/medical_autorun_install_xp_v1.0.0.exe)
- * Win7, Win10 용: [medical_autorun_installer.exe](https://github.com/winnyhs/release/releases/download/autorun_latest/medical_autorun_install_v1.0.0.exe)
+   * Windows XP 용 : [medical_autorun_install_xp.exe](https://github.com/winnyhs/release/releases/download/autorun_latest/medical_autorun_install_xp_v1.0.0.exe)
+   * Win7, Win10 용: [medical_autorun_installer.exe](https://github.com/winnyhs/release/releases/download/autorun_latest/medical_autorun_install_v1.0.0.exe)
 
 2. 다운받은 파일을 더블클릭하세요.
    * 2초후 설치가 완료 됩니다.
