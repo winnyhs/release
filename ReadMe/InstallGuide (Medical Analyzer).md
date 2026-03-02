@@ -3,11 +3,11 @@
 #  자동 분석 설치 프로그램
 * Win7 이상에서 동작
 
-## 1. 설치 방법
+## 설치 절차
 
 1. 아래 2 개의 파일을 모두 다운로드 하세요
-  * [tesseract-ocr-setup-3.05.01-20170602.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/tesseract-ocr-setup-3.05.01-20170602.exe)
-  * [medical_analyzer_install.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/medical_analyzer_install_v1.0.0.exe)
+ * [tesseract-ocr-setup-3.05.01-20170602.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/tesseract-ocr-setup-3.05.01-20170602.exe)
+ * [medical_analyzer_install.exe](https://github.com/winnyhs/release/releases/download/analyzer_latest/medical_analyzer_install_v1.0.0.exe)
 
 2. 다운받은 tesseract-ocr-setup-3.05.01-20170602.exe 를 더블클릭해서 설치하세요 
    유의사항) 설치 디렉토리 변경하지 말라
@@ -17,10 +17,9 @@
    * Finish 버튼을 클릭하세요. 설치가 완료되었고, 설치 창이 종료됩니다. 
    * 바탕화면에 Medical Analyzer Server 아이콘이 생성되어 있습니다.  
 
-# 사용법
+### 간단 사용 법
 
-### 시작하기
-
+#### 시작 하기 
 1. 바탕화면에 생성된 Medical Analyzer Server를 더블클릭 하세요.  
 2. 검은 색 창들이 2개가 뜹니다. 
    검은 창들을 최소화해도 됩니다. 다만, 절대로 종료하면 안 됩니다.
@@ -34,7 +33,7 @@
    * 처방 입력 페이지에서 분석일자를 선택하고 처방저장을 클릭해서 처방 프로그램을 입력하세요. 
 
 
-### 종료하기
+#### 종료하기
 
 1. 검은 색 창들을 모두 닫는다
    기능이 더 이상 동작하지 않는다.
